@@ -25,3 +25,10 @@ section {
 .half-width img {
     width: 100%;
 }
+
+.link-button {
+    text-decoration: none;
+    background-color: yellow;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
