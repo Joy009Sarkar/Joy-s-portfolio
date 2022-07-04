@@ -23,6 +23,7 @@ h1 {
     width: 80%;
     padding-left: 5%;
 
+
 }
 
 .half-width img {
@@ -48,4 +49,10 @@ h1 {
     background-image: url(/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experiance-item {
+    box-shadow: 10px 10px 40px tomato;
+    width: 50%;
+    margin-left: 5%;
 }
